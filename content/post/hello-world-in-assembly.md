@@ -1,7 +1,7 @@
 +++
 title = "Hello, World! in Assembly :p"
 description = "A simple Hello World program in x86-64 Assembly on Linux"
-date = "2026-11-06T20:00:00"
+date = "2026-11-06"
 author = "ari"
 tags = ["assembly", "coding", "low-level", "linux"]
 categories = ["coding", "low-level"]
