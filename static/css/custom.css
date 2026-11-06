@@ -1,0 +1,43 @@
+html {
+    font-size: 150% !important;
+}
+
+body {
+    font-size: 1.5rem !important;
+}
+
+h1 {
+    font-size: 2.25rem !important;
+}
+
+h2 {
+    font-size: 1.875rem !important;
+}
+
+h3 {
+    font-size: 1.5rem !important;
+}
+
+h4 {
+    font-size: 1.25rem !important;
+}
+
+p {
+    font-size: 1.2rem !important;
+}
+
+.navbar .brand {
+    font-size: 1.5rem !important;
+}
+
+.navbar .nav > li > a {
+    font-size: 1.2rem !important;
+}
+
+.page-header h1 {
+    font-size: 2rem !important;
+}
+
+p.lead {
+    font-size: 1.5rem !important;
+}
