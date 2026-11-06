@@ -13,6 +13,7 @@
     <p></p>
     <hr class="soften">
     <p></p>
+
     <h1>{{ i18n "postslist" }}</h1>
     <ul>
         {{ range first 10 .Site.RegularPages }}
@@ -20,6 +21,18 @@
         <li><a href="{{ .Permalink }}">{{ .Date.Format "2006-01-02" }} | {{ .Title }}</a></li>
         {{ end }}
         {{ end }}
+    </ul>
+
+    <hr class="soften">
+
+    <h1>{{ i18n "categories" }}</h1>
+    <ul class="nav nav-list bs-docs-sidenav">
+        {{ partial "categories.html" .}}
+    </ul>
+    <p></p>
+    <h1>{{ i18n "tags" }}</h1>
+    <ul class="nav nav-list bs-docs-sidenav">
+        {{ partial "tags.html" .}}
     </ul>
 </div>
 
