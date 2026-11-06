@@ -1,0 +1,62 @@
+baseURL = "https://example.org/"
+title = "Hikari"
+languageCode = "en"
+DefaultContentLanguage = "en"
+theme = "hugo.386"
+preserveTaxonomyNames = true
+
+[params]
+    description = "About Hikari / Ari"
+    mainpagetitle = "Hikari"
+    mainpagesubtitle = "Welcome to my personal space. HIIII!"
+    mainpagedesc = "Hi, I'm Hikari! Nice to meet you. Please don't disturb me while I'm sleeping. >_<"
+    copyrightname = "ari"
+    copyrighturl = ""
+    showhugo = true
+    loadfastload = false
+    loadspeedfactor = 1.0
+    loadonepass = false
+
+[params.copyright]
+    name = "ari"
+    url = ""
+    prefix = "Memento Vivere"
+    suffix = "Hikari Blog"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "All posts"
+    url = "/post/"
+    weight = 20
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+  [privacy.instagram]
+    disabled = false
+    simple = true
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+  [services.x]
+    disableInlineCSS = true
