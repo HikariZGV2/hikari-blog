@@ -1,0 +1,39 @@
+body {
+    font-size: 24px !important;
+}
+
+h1 {
+    font-size: 36px !important;
+}
+
+h2 {
+    font-size: 30px !important;
+}
+
+h3 {
+    font-size: 26px !important;
+}
+
+h4 {
+    font-size: 24px !important;
+}
+
+p {
+    font-size: 20px !important;
+}
+
+.navbar .brand {
+    font-size: 28px !important;
+}
+
+.navbar .nav > li > a {
+    font-size: 20px !important;
+}
+
+.page-header h1 {
+    font-size: 32px !important;
+}
+
+p.lead {
+    font-size: 24px !important;
+}
