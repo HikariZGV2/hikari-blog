@@ -3,7 +3,7 @@ title = "I Just Want to Be Myself"
 description = "Personal post about identity, acceptance, and feeling overwhelmed"
 date = "2026-11-07"
 author = "ari"
-tags = ["personal", "life", "rant", "mental-health"]
+tags = ["personal", "life", "rant"]
 categories = ["personal", "life"]
 +++
 
