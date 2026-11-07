@@ -1,0 +1,13 @@
+/* Desktop text scaling - 150% without breaking layout */
+@media (min-width: 768px) {
+  html {
+    font-size: 150%;
+  }
+  body {
+    font-size: 1rem;
+  }
+  .navbar .brand,
+  .navbar .nav > li > a {
+    line-height: 1.4;
+  }
+}
