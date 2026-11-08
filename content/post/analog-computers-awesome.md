@@ -1,6 +1,6 @@
 +++
 title = "Analog Computers Are More Awesome Than Modern Computers!!"
-description = "Analog dan relay computer lebih keren dari komputer modern, karena hardware sendiri jadi program."
+description = "Analog and relay computers are more awesome than modern computers, because the hardware itself becomes the program."
 date = "2026-11-08"
 author = "airi"
 tags = ["analog", "computer", "relay", "personal", "life"]
