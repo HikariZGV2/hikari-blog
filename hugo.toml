@@ -10,7 +10,7 @@ preserveTaxonomyNames = true
     mainpagetitle = "Hikari"
     mainpagesubtitle = "Welcome to my personal space. HIIII!"
     mainpagedesc = "Hi, I'm Hikari! Nice to meet you. Please don't disturb me while I'm sleeping. >_<"
-    copyrightname = "ari"
+    copyrightname = "Airi"
     copyrighturl = ""
     showhugo = true
     loadfastload = false
@@ -18,7 +18,7 @@ preserveTaxonomyNames = true
     loadonepass = false
 
 [params.copyright]
-    name = "ari"
+    name = "Airi"
     url = ""
     prefix = "Memento Vivere"
     suffix = "Hikari Blog"
