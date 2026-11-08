@@ -2,7 +2,7 @@
 title = "My Birthday!! >_<"
 description = "My first post talking about my birthday and cosplay plans"
 date = "2026-11-06"
-author = "ari"
+author = "airi"
 tags = ["cosplay", "personal", "life"]
 categories = ["personal", "life"]
 +++

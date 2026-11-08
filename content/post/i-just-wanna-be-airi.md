@@ -1,8 +1,8 @@
 +++
-title = "I Just Wanna Be Ari, Because Ari Is Me"
+title = "I Just Wanna Be Airi, Because Airi Is Me"
 description = "Personal post about gender dysphoria and self-expression"
 date = "2026-11-07"
-author = "ari"
+author = "airi"
 tags = ["personal", "life", "rant"]
 categories = ["personal", "life"]
 +++
@@ -13,6 +13,6 @@ Sometimes, my friends still call me by my old name, like Mori or something else,
 
 But I keep forgetting that I can't really express myself that way because of the place where I live. T_T
 
-That's all for today. I can't write a longer post because Ari isn't feeling okay today. My dysphoria has been really bad, and I'm feeling very sad.
+That's all for today. I can't write a longer post because Airi isn't feeling okay today. My dysphoria has been really bad, and I'm feeling very sad.
 
 Byeee, everyone. I love you all.

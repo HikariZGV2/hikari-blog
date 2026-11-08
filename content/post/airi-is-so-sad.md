@@ -1,5 +1,5 @@
 +++
-title = "Ari Is So Sad Right Now :("
+title = "Airi Is So Sad Right Now :("
 description = "Feeling overwhelmed with exams and assignments"
 date = "2026-11-06"
 author = "ari"

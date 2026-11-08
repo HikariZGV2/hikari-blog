@@ -2,7 +2,7 @@
 title = "I Hate My Voice :("
 description = "Random rant about my voice and being lazy on the weekend"
 date = "2026-11-07"
-author = "ari"
+author = "airi"
 tags = ["personal", "rant", "life"]
 categories = ["personal", "life"]
 +++
